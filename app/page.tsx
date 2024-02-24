@@ -86,8 +86,8 @@ export default function Page() {
                   <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                     Get your adrenaline pumping with our collection of
                     high-octane action movies. From explosive blockbusters to
-                    pulse-pounding thrillers, we've got the edge-of-your-seat
-                    entertainment you crave.
+                    pulse-pounding thrillers, we&apos;ve got the
+                    edge-of-your-seat entertainment you crave.
                   </p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
@@ -120,8 +120,8 @@ export default function Page() {
                   <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                     Get ready to chuckle, giggle, and guffaw with our hilarious
                     selection of comedy movies and TV shows. Whether you love
-                    slapstick, satire, or romantic comedies, we've got something
-                    to tickle your funny bone.
+                    slapstick, satire, or romantic comedies, we&apos;ve got
+                    something to tickle your funny bone.
                   </p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
